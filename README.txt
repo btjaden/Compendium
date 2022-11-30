@@ -28,5 +28,5 @@ The code is provided under the GNU General Public License (see file COPYING for 
    python pipeline.py metaData.txt
 
 4. Identification of operons based on the transcript assemblies and comparison to experimentally confirmed operons reported by RegulonDB:
-   python operons rna-seq-data
+   python operons.py rna-seq-data
 
